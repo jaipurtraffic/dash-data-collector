@@ -3,7 +3,7 @@ module github.com/mangalaman93/tdash
 go 1.25.3
 
 require (
-	github.com/jackc/pgx/v5 v5.9.1
+	github.com/jackc/pgx/v5 v5.9.2
 	github.com/luabagg/orcgen/v2 v2.0.2
 	github.com/mattn/go-sqlite3 v1.14.42
 	golang.org/x/image v0.39.0
