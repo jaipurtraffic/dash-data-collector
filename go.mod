@@ -5,7 +5,7 @@ go 1.25.3
 require (
 	github.com/jackc/pgx/v5 v5.9.2
 	github.com/luabagg/orcgen/v2 v2.0.2
-	github.com/mattn/go-sqlite3 v1.14.42
+	github.com/mattn/go-sqlite3 v1.14.44
 	golang.org/x/image v0.39.0
 	golang.org/x/sync v0.20.0
 	golang.org/x/sys v0.43.0
