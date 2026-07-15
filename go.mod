@@ -5,10 +5,10 @@ go 1.25.3
 require (
 	github.com/jackc/pgx/v5 v5.10.0
 	github.com/luabagg/orcgen/v2 v2.0.2
-	github.com/mattn/go-sqlite3 v1.14.47
-	golang.org/x/image v0.43.0
-	golang.org/x/sync v0.21.0
-	golang.org/x/sys v0.46.0
+	github.com/mattn/go-sqlite3 v1.14.48
+	golang.org/x/image v0.44.0
+	golang.org/x/sync v0.22.0
+	golang.org/x/sys v0.47.0
 )
 
 require (
@@ -22,5 +22,5 @@ require (
 	github.com/ysmood/gson v0.7.3 // indirect
 	github.com/ysmood/leakless v0.9.0 // indirect
 	golang.org/x/net v0.28.0 // indirect
-	golang.org/x/text v0.38.0 // indirect
+	golang.org/x/text v0.40.0 // indirect
 )
